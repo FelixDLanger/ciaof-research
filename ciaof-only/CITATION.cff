@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the working paper below."
+title: "CIAOF — Core Integrity Adherence–Outcome Framework: research pipeline and decision framework"
+type: software
+authors:
+  - family-names: Langer
+    given-names: Felix D.
+    orcid: "https://orcid.org/0009-0000-3205-8088"
+    affiliation: "GlobalNxt University (DBA candidate); independent researcher"
+repository-code: "https://github.com/FelixDLanger/ciaof-research"
+license: AGPL-3.0-or-later
+keywords:
+  - enterprise architecture
+  - core integrity
+  - ERP standardization
+  - formative measurement
+  - specification curve
+  - panel data
+  - null results
+preferred-citation:
+  type: article
+  title: "Core Integrity as a Firm Characteristic: Allocation, Level, and the Limits of Public-Data Inference on Architectural Discipline"
+  authors:
+    - family-names: Langer
+      given-names: Felix D.
+      orcid: "https://orcid.org/0009-0000-3205-8088"
+  year: 2026
+  notes: "Working paper. SSRN identifier to be inserted on posting."
